@@ -1,0 +1,24 @@
+# install mypy
+# import re
+# Run the following command to create a new Conda environment:
+#1 conda create -n <env_name> python==3.12 -y
+#  * Example: conda create -n python12 python==3.12 -y
+
+# Activate your newly created environment:
+#  * conda activate <env_name>
+#  *Example: conda activate python12
+
+# intalling required packages
+#  *Create a requirements.txt file with the following content:
+
+#mypy
+
+
+# Run the following command to install the required packages:
+
+#  *pip install -r requirements.txt
+
+
+# Select the enviroment in your "Python file" like "file.py"
+
+# Select the enviroment in your "Jupyter NoteBook" file like "file.ipynb"
