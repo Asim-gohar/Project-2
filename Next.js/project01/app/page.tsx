@@ -133,14 +133,7 @@ Note: After this point, we will do all our class work and exercises using Node.j
   <li>Using Concurrency, Callbacks, Promises, async / await, and Event loop (chapter 13 of JavaScript from Beginner to Professional)</li>
   <li>JavaScript promises, mastering the asynchronous</li>
 </ul>
-<ul>
-  <li>Hello 1</li>
-  <li>World 2</li>
-</ul>
-<ol>
-  <li>Hello 1</li>
-  <li>World 2</li>
-</ol>
+
 
 
 
@@ -428,7 +421,7 @@ Build a Viking Scene using Blender 3 as shown in chapter 2 of the Book [Blender 
   </form>
 
   <h1 style={{textAlign : 'center' , padding:"4% 0% 4% 0%", fontSize : "320%" , background:"radial-gradient(circle, lightblue 50%, lightgreen 80%)"}}> Assignment Finished</h1>
-     
+        <h1>Asim butt</h1>
      </div>
   
   ) 
