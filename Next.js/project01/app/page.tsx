@@ -422,7 +422,7 @@ Build a Viking Scene using Blender 3 as shown in chapter 2 of the Book [Blender 
 
   <h1 style={{textAlign : 'center' , padding:"4% 0% 4% 0%", fontSize : "320%" , background:"radial-gradient(circle, lightblue 50%, lightgreen 80%)"}}> Assignment Finished</h1>
        
-     </div>
+     </div> 
   
   ) 
 }
